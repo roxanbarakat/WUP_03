@@ -39,6 +39,11 @@ The fancy notch box plot displays 3 different categories of people's seating (ba
 
 ## Numerical Summarys 
 
+```{r}
+favstats(alcohol~Seat,data=davisdata)
+```
+The numerical data shows that the average number of drinks for the people who are seated at the back is about 9 drinks, which is 3x the average number of drinks for people who are seated in the middle, and 9x the average number of people who are seated in the front.
+
 ## Inferential Tests
 
 ## Conclusions
