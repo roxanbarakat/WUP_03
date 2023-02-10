@@ -35,6 +35,8 @@ basicCN + geom_boxplot()
 basicCN + geom_boxplot(notch=TRUE,outlier.color = "red") + stat_boxplot(geom ='errorbar') + labs(title="Fancy notch boxplot \n with 2 lines")
 ```
 
+The fancy notch box plot displays 3 different categories of people's seating (back, front, and middle). We can observe that people who're seated in the back has a median that differs, yet the people seating in the front and middle have more confidence in their median data. Therefore, we can make a hypothesis that people in the back have a higher average of consuming alcohol drinks than those who are seated in the middle and front. 
+
 ## Numerical Summarys 
 
 ## Inferential Tests
