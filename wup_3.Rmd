@@ -62,4 +62,4 @@ This plot shows that there's a difference of the alcohol consumed between the ba
 
 ## Conclusions
 
-
+After reviewing the numerical data, and the inferential tests we conclude that the people who are seated at the back consume more alcohol than those who are seated in the middle or front. The numerical data showed a high mean average of 9 alcoholic drinks consumed in the back, yet there was an average of 3 drinks in middle rows and 1 average drink in the front. Also, the p-value was too small of 0.000116 indicating that the chances of having no difference in the alcohol consumed in the 3 different rows is too slim.
