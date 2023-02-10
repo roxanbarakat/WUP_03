@@ -46,6 +46,13 @@ The numerical data shows that the average number of drinks for the people who ar
 
 ## Inferential Tests
 
+```{r}
+model1 <- aov(alcohol~Seat,data=davisdata)
+summary.aov(model1)
+```
+
+The inferential test shows a small number of P-value with 0.000116, which means this is the probability of having no difference between the alcohol consumed between the 3 row (back, front, middle) options that's available for people to be seated at.
+
 ## Conclusions
 
 
